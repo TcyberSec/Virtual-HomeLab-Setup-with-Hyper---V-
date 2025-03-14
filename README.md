@@ -37,7 +37,7 @@ The physical environment will include a laptop connected wirelessly to the netwo
 
 ## Network Topology 
 
-
+![Network Topology](https://github.com/TcyberSec/Virtual-HomeLab-Setup-with-Hyper---V-/blob/main/Network%20Topology.png)
 
 ## Hardware Setup
 
