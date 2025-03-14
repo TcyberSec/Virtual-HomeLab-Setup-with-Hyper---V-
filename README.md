@@ -19,7 +19,7 @@ ____
 ## Project Overview
 
 This project involves setting up a home lab using Hyper-V on a Windows 11 Pro machine, with a focus on creating a secure and scalable environment. 
-The lab will consist of multiple virtual machines (VMs), including Kali Linux, Windows Server 2022, an Ubuntu Server for Splunk, an Email Server, and an Elastic Monitoring Server. Additionally, the lab will integrate a pfSense firewall to manage traffic between the internal and external networks, ensuring both security and performance.
+The lab will consist of multiple virtual machines (VMs), including **Kali Linux**, **Windows Server 2022**, an **Ubuntu Server** for Splunk, an **Email Server**, and an **Elastic Monitoring Server**. Additionally, the lab will integrate a **pfSense firewall** to manage traffic between the internal and external networks, ensuring both security and performance.
 
 The physical environment will include a laptop connected wirelessly to the network and a desktop connected via Ethernet, representing different client devices accessing the virtualized services.
 
